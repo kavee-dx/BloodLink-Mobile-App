@@ -1,0 +1,466 @@
+<resources>
+    <string name="app_name">BloodLink</string>
+
+    <!--Main_splash_screen -->
+    <string name="splash_title01">Connecting Blood,</string>
+    <string name="splash_title02">Saving Lives</string>
+
+    <!--Onboarding01 -->
+    <string name="onboarding01_title_line1">Find Blood in</string>
+    <string name="onboarding01_title_line2">Seconds</string>
+    <string name="onboarding_paragraph">Quickly locate available blood types across nearby hospitals in critical moments</string>
+    <string name="btn_next">Next</string>
+
+    <!--Onboarding02-->
+    <string name="onboarding02_title_line1">Request Urgent</string>
+    <string name="onboarding02_title_line2">Blood Instantly</string>
+    <string name="onboarding2_paragraph">Send immediate blood request to nearby hospitals with a few taps</string>
+    <string name="btn_next2">Next</string>
+
+    <!--Onboarding03-->
+    <string name="onboarding03_title_line1">Track Blood</string>
+    <string name="onboarding03_title_line2">Real-Time</string>
+    <string name="onboarding3_paragraph">Track your hospital urgent blood deliveries with one tap</string>
+    <string name="btn_get_started">Get Started</string>
+
+    <!-- App -->
+    <string name="app_logo">BloodLink Logo</string>
+    <string name="slogan">"Connecting Blood, Saving Lives"</string>
+
+    <!-- Login Page -->
+    <string name="hospital_id">Hospital ID :</string>
+    <string name="staff_id">Staff ID :</string>
+    <string name="password">Password :</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="login">Login</string>
+    <string name="or_dont_have_account">Or don’t have an account?</string>
+    <string name="create_account"><u>Create Account</u></string>
+
+    <!-- Placeholder hints -->
+    <string name="hint_hospital_id">Enter Hospital ID</string>
+    <string name="hint_staff_id">Enter Staff ID</string>
+    <string name="hint_password">Enter Password</string>
+
+    <!-- SignUp Page -->
+    <string name="create_account2">Create Account</string>
+    <string name="hospital_name">Hospital Name:</string>
+    <string name="enter_hospital_name">Enter hospital name</string>
+    <string name="enter_hospital_id">Enter hospital ID</string>
+    <string name="email">Email:</string>
+    <string name="enter_email">Enter email</string>
+    <string name="contact_number">Contact Number:</string>
+    <string name="enter_contact">Enter contact number</string>
+    <string name="enter_password">Enter password</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="reenter_password">Re-enter password</string>
+    <string name="already_account">Already have an account?</string>
+    <string name="login_here"><u>Login here</u></string>
+
+    <!-- Account created Page -->
+    <string name="account_created">Account Created!</string>
+    <string name="account_created_message">Your account was successfully created.</string>
+    <string name="redirecting_message">Redirecting to Login...</string>
+    <string name="empty_desc" />
+
+    <!-- Forgot Password Page -->
+    <string name="back_button">Back</string>
+    <string name="lock_icon">Lock Icon</string>
+    <string name="forgot_paragraph">Please enter your Staff ID or Email,\nto receive a reset link.</string>
+    <string name="enter_staff_id">Enter your Staff ID</string>
+    <string name="or">OR</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="change_password">Change Password</string>
+
+    <!-- Loading activity Page -->
+    <string name="please_wait">Please wait...</string>
+    <string name="loading_gif_desc">Loading animation</string>
+
+    <!-- otp verification Page -->
+    <string name="verify_identity">Verify Your Identity</string>
+    <string name="otp_paragraph">We have sent a 6-digit code to your email.</string>
+    <string name="did_not_receive">Didn\'t receive the code?</string>
+    <string name="resend_link"><u>Resend Link</u></string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="otp_placeholder">*</string>
+    <string name="sending_reset_link">Sending Reset Link…</string>
+
+    <!-- link resent successfully Page -->
+    <string name="link_resent_successfully">Link Resent Successfully!</string>
+    <string name="check_inbox">Please check your inbox or spam</string>
+
+    <!-- password reset successfully Page -->
+    <string name="pw_reset_successfully">Password Reset Successful</string>
+    <string name="new_pw">You can now log in with your new password</string>
+
+    <!-- success verified Page -->
+    <string name="otp_verified">OTP Verified Successfully</string>
+
+    <!-- create new password Page -->
+    <string name="create_new_password">Create New Password</string>
+    <string name="set_secure_password">Set a secure password for your account</string>
+    <string name="new_password">New Password :</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="enter_confirm_password">Enter confirm password</string>
+    <string name="submit">Submit</string>
+    <string name="show_hide_password">Show/Hide Password</string>
+
+    <!-- login successful Page -->
+    <string name="login_success">Login Successful !</string>
+
+    <!-- home page-->
+    <string name="desc_logo">BloodLink App Logo</string>
+    <string name="desc_notification">Notification Icon</string>
+    <string name="desc_search_icon">Search Icon</string>
+    <string name="hint_search">Search blood group for hospital...</string>
+    <string name="title_urgent">🚨 Urgent Requests Nearby</string>
+    <string name="btn_add_request">Add Request</string>
+    <string name="btn_inventory">Inventory</string>
+    <string name="btn_reports">Reports</string>
+
+
+    <string name="blood_icon">Blood type icon</string>
+    <string name="units_icon">Blood units available icon</string>
+    <string name="location_icon">Location icon</string>
+
+    <string name="blood_a_positive">A+</string>
+    <string name="blood_o_positive">O+</string>
+    <string name="blood_b_negative">B-</string>
+
+    <string name="units_12">12 Units</string>
+    <string name="units_20">20 Units</string>
+    <string name="units_16">16 Units</string>
+
+    <string name="location_colombo">Colombo Gen</string>
+    <string name="location_lanka">Lanka Hospital</string>
+    <string name="location_nawaloka">Nawaloka Hospital</string>
+
+    <!-- Titles -->
+    <string name="view">View</string>
+
+    <!-- Content descriptions -->
+    <string name="hospital_icon">Hospital icon</string>
+
+    <string name="time_icon">Time icon</string>
+    <string name="view_arrow">View arrow icon</string>
+
+    <!-- Hospitals -->
+    <string name="hospital_lanka">Lanka Hosp</string>
+    <string name="hospital_gen">Gen Hosp</string>
+    <string name="hospital_citycare">CityCare Hosp</string>
+
+    <!-- Blood types -->
+    <string name="blood_ab_negative">AB-</string>
+    <string name="blood_a_negative">A-</string>
+
+
+    <!-- Times -->
+    <string name="time_1hr">1 hr</string>
+    <string name="time_2hr">2 hr</string>
+    <string name="time_3hr">3 hr</string>
+
+    <!--nav bar-->
+    <string name="nav_home">Home</string>
+    <string name="nav_transfers">Transfers</string>
+    <string name="nav_tips">Tips</string>
+    <string name="nav_goals">Goals</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Optional: content descriptions for accessibility -->
+    <string name="content_home">Home navigation</string>
+    <string name="content_transfers">Transfers navigation</string>
+    <string name="content_tips">Tips navigation</string>
+    <string name="content_goals">Goals navigation</string>
+    <string name="content_profile">Profile navigation</string>
+
+
+    <!-- notification page-->
+    <string name="notifications">Notifications</string>
+    <string name="hospital">Hospital</string>
+    <string name="location">Location</string>
+    <string name="clock">Clock</string>
+    <string name="file">File</string>
+    <string name="caught_up">You\'re all caught up</string>
+    <string name="no_more_notifications">No more notifications for now</string>
+
+    <!-- Notifications -->
+    <string name="lanka_hospital">Lanka Hospital</string>
+    <string name="urgent_blood_needed">Urgent Blood Needed (A-)</string>
+    <string name="colombo_needed">Colombo</string>
+    <string name="needed_in_2hrs">Needed in 2 hours</string>
+    <string name="two_minutes_ago">2 minutes ago</string>
+
+    <string name="gen_hospital">Gen Hospital</string>
+    <string name="ab_request_confirmation">AB+ Request Received Confirmation</string>
+    <string name="kandy_request">Kandy</string>
+    <string name="request_accepted">Request Accepted</string>
+    <string name="five_minutes_ago">5 minutes ago</string>
+
+    <string name="central_blood_bank">Central Blood Bank</string>
+    <string name="inventory_uploaded">Inventory report uploaded</string>
+    <string name="monthly_data">Monthly data available for review</string>
+    <string name="one_hour_ago">1 hour ago</string>
+
+    <!-- add request page-->
+    <string name="add_request">Add Blood Request</string>
+    <string name="date_needed">Date Needed :</string>
+    <string name="date_placeholder">03 August 2025</string>
+    <string name="time_needed">Time Needed :</string>
+    <string name="time_placeholder">02:45 PM</string>
+    <string name="blood_type">Blood Type :</string>
+    <string name="blood_placeholder">Enter Blood Type</string>
+    <string name="units_needed">Units Needed :</string>
+    <string name="units_placeholder">Number of units</string>
+    <string name="delivery_location">Delivery Location :</string>
+    <string name="location_placeholder">Current Location</string>
+    <string name="reason">Reason (Optional) :</string>
+    <string name="reason_placeholder">Enter reason...</string>
+    <string name="submit_request">Submit Request</string>
+    <string name="calendar_icon">Calendar Icon</string>
+    <string name="reason_icon">Reason Icon</string>
+    <string name="date_icon">date</string>
+
+    <!--submit request success page-->
+    <string name="submit_request_success">Request Submitted !</string>
+    <string name="message2">Your Urgent Blood request was sent to the network. Help is on the way.</string>
+
+    <!--report page-->
+    <string name="search_placeholder">Search by month...</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="summary_july">Summary – July 2025</string>
+    <string name="summary_june">Summary – June 2025</string>
+
+    <string name="total_received">Total Received: 125 Units</string>
+    <string name="total_sent">Total Sent: 150 Units</string>
+    <string name="pending_requests">Pending Requests: 4</string>
+    <string name="sucessful_transfers">Successful Transfers: 41</string>
+    <string name="total_received2">Total Received: 38 Units</string>
+    <string name="total_sent2">Total Sent: 45 Units</string>
+    <string name="pending_requests2">Pending Requests: 0</string>
+    <string name="sucessful_transfers2">Successful Transfers: 30</string>
+    <string name="received_icon">Received Icon</string>
+    <string name="sent_icon">Sent Icon</string>
+    <string name="pending_icon">Pending Icon</string>
+    <string name="success_icon">Success Icon</string>
+    <string name="placeholder_box2">Additional info can go here</string>
+
+    <!--urgent request page-->
+    <string name="urgent_topic">Urgent Requests</string>
+    <string name="hospital_name2">Hospital Name: Lanka Hospital</string>
+    <string name="location2">Location</string>
+    <string name="location_text">Location: Colombo</string>
+    <string name="blood_type2">Blood Type</string>
+    <string name="blood_type_text">Blood Type: AB-</string>
+    <string name="units_text">Units: 2</string>
+    <string name="contact">Contact</string>
+    <string name="contact_text">Contact: 011-1234567</string>
+    <string name="date">Date</string>
+    <string name="date_text">Date: August 03, 2025</string>
+    <string name="doctor">Doctor</string>
+    <string name="doctor_text">Doctor In-charge: Dr. Sameera</string>
+    <string name="time_left">Time Left</string>
+    <string name="time_left_text">Time Left: 1 hr</string>
+
+    <string name="request_details">📝 Request Details:</string>
+    <string name="request_message">"Need 2 units of AB- blood urgently for surgery. Please respond if available nearby."</string>
+
+    <string name="accept_request">Accept Request</string>
+
+    <!--live tracking page-->
+    <!-- Topic -->
+    <string name="live_blood_delivery">Live Blood Delivery</string>
+    <string name="ambulance_icon">Ambulance Icon</string>
+
+    <!-- Info Box -->
+    <string name="to_hospital">To: Lanka Hospital</string>
+
+    <string name="units">Units</string>
+    <string name="map">map</string>
+    <string name="eta">ETA</string>
+    <string name="eta_text">ETA: 24 minutes</string>
+    <string name="distance">Distance</string>
+    <string name="distance_text">Distance: 8.3 km</string>
+
+    <!-- Progress -->
+    <string name="preparing">Preparing</string>
+    <string name="picked_up">Picked Up</string>
+    <string name="on_the_way">On the Way</string>
+    <string name="delivered">Delivered</string>
+
+    <!-- Details Box -->
+    <string name="donor_hospital">📌 Donor Hospital: Colombo General Hospital</string>
+    <string name="receiver_hospital">📌 Receiver Hospital: Lanka Hospital</string>
+    <string name="date2">📅 Date: 2 Aug 2025</string>
+    <string name="time">⏰ Time: 10:35 AM</string>
+
+    <!-- Button -->
+    <string name="view_all_transfers">View All Transfers</string>
+
+    <!--transfer page-->
+    <string name="blood_transfer_icon">Blood Transfer Icon</string>
+    <string name="blood_transfers">Blood Transfers</string>
+    <string name="stay_updated">📢  Stay updated on your hospital’s emergency deliveries.</string>
+    <string name="illustration">Illustration</string>
+    <string name="track_blood">📍 Track where blood is going or coming from in real-time.</string>
+
+    <!-- Buttons -->
+    <string name="outgoing_icon">Outgoing Icon</string>
+    <string name="outgoing_transfers">Outgoing Transfers</string>
+    <string name="incoming_icon">Incoming Icon</string>
+    <string name="incoming_transfers">Incoming Transfers</string>
+
+
+    <!--outgoing transfer page-->
+
+    <string name="to_lanka_hospital">To: Lanka Hospital</string>
+    <string name="to_national_hospital">To: National Hospital</string>
+
+    <string name="ab_negative_units">Blood Type: AB- | 2 Units</string>
+    <string name="o_negative_units">Blood Type: O- | 2 Units</string>
+    <string name="ab_positive_units">Blood Type: AB+ | 3 Units</string>
+
+    <string name="eta_23_min">ETA: 23 min</string>
+    <string name="eta_14_min">ETA: 14 min</string>
+
+    <string name="en_route">En Route</string>
+    <string name="delivered_time">Delivered: 10:35 AM</string>
+
+    <string name="view_live_map">View Live Map</string>
+
+    <!--incoming transfer page-->
+
+    <string name="from_lanka_hospital">From: Lanka Hospital</string>
+    <string name="received">Received</string>
+    <string name="received_time">Received: 10:35 AM</string>
+    <string name="from_hospital">From: </string>
+    <string name="awaiting">Awaiting Hospital Acceptance...</string>
+    <string name="eta_0_min">ETA: 0 min</string>
+    <string name="pending">Pending</string>
+
+    <!--Tips page-->
+
+    <string name="books">Books</string>
+    <string name="tips">Blood Safety Tips</string>
+
+    <string name="storage">Storage</string>
+    <string name="proper_storage">Proper Storage of Blood</string>
+    <string name="proper_storage_line1">Keep refrigerated at 2–6°C.</string>
+    <string name="proper_storage_line2">Avoid sunlight and temperature fluctuations.</string>
+    <string name="proper_storage_line3">Use medical-grade refrigerators.</string>
+
+    <string name="transport">Transport</string>
+    <string name="emergency_transport">Emergency Blood Transport</string>
+    <string name="emergency_transport_line1">Always use insulated boxes.</string>
+    <string name="emergency_transport_line2">Track transport duration and temperature.</string>
+    <string name="emergency_transport_line3">Ensure vehicle is cleaned and labeled.</string>
+
+    <string name="hygiene">Hygiene</string>
+    <string name="hygiene_protocols">Hygiene and Safety Protocols</string>
+    <string name="hygiene_line1">Use sterilized needles, gloves, and PPE.</string>
+    <string name="hygiene_line2">Check blood bag expiry dates.</string>
+    <string name="hygiene_line3">Dispose medical waste in biohazard bins.</string>
+
+    <string name="inventory">Inventory</string>
+    <string name="inventory_rotation">Inventory Rotation Techniques</string>
+    <string name="inventory_line1">Follow FIFO: First In, First Out.</string>
+    <string name="inventory_line2">Label stock with dates clearly.</string>
+    <string name="inventory_line3">Audit storage weekly.</string>
+
+    <!--Goals page-->
+    <string name="goals">Goals</string>
+    <string name="current_monthly_target">Current Monthly Target</string>
+    <string name="august_goal">August Goal: 100 Units</string>
+    <string name="achieved">Achieved: 75 Units</string>
+    <string name="progress_bar">Progress Bar</string>
+    <string name="chart">Chart</string>
+    <string name="progress">Progress : 75%</string>
+
+    <string name="unlock">Unlock</string>
+    <string name="goal_milestones">Goal Milestones</string>
+    <string name="bronze_milestone">50 Units - Bronze Contributor ✅</string>
+    <string name="winner">winner</string>
+
+    <string name="silver_milestone">100 Units - Silver Contributor ⏳</string>
+    <string name="gold_milestone">200 Units - Gold Contributor 🔒</string>
+
+    <string name="weekly_activity">Weekly Activity</string>
+    <string name="sent_units">Sent: 20 Units</string>
+    <string name="received_units">Received: 18 Units</string>
+
+
+    <!--Profile page-->
+    <string name="profile">Profile</string>
+    <string name="hospital_logo">Hospital Logo</string>
+    <string name="hospital_name3">Lanka General Hospital</string>
+    <string name="hospital_location">Colombo, Sri Lanka</string>
+    <string name="hospital_phone">+94 71 234 5678</string>
+    <string name="hospital_email">lankahospital@gmail.com</string>
+
+    <string name="summary">Summary</string>
+    <string name="summary_sent">Total Sent: 150 Units</string>
+    <string name="summary_received">Total Received: 132 Units</string>
+    <string name="summary_active">Active Transfers: 4</string>
+
+    <string name="achievements">Achievements</string>
+    <string name="achievement_gold">Gold Contributor – August 2025</string>
+    <string name="achievement_consistent">Consistent Partner – 12 Months</string>
+
+    <string name="settings">Settings</string>
+    <string name="change_password1"><u>Change Password</u></string>
+    <string name="logout">Logout</string>
+    <string name="phone_icon">Phone Icon</string>
+    <string name="email_icon">Email Icon</string>
+    <string name="award">Award</string>
+
+    <string name="active_icon">Active Transfers Icon</string>
+    <string name="achievement_gold_icon">Gold Icon</string>
+    <string name="achievement_consistent_icon">Partner Icon</string>
+
+    <!--Inventory page-->
+    <string name="blood_inventory">Blood Inventory</string>
+
+    <string name="search_blood_hint">Search Blood Type [ O+ ]</string>
+    <string name="search">Search</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="available_units">Available Units</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="add_new_stock">Add New Stock</string>
+    <string name="o">🩸O+</string>
+    <string name="_12_units">12 Units</string>
+    <string name="_2025_08_03">2025-08-03</string>
+    <string name="b">🩸B-</string>
+    <string name="_6_units">6 Units</string>
+    <string name="_2025_07_31">2025-07-31</string>
+    <string name="ab">🩸AB+</string>
+    <string name="_2_units">2 Units</string>
+    <string name="_2025_06_25">2025-06-25</string>
+    <string name="a">🩸A-</string>
+    <string name="_8_units">8 Units</string>
+    <string name="_2025_08_01">2025-08-01</string>
+
+
+    <!--add new stock page-->
+    <string name="select_blood_group">Select Blood Group :</string>
+    <string name="select_blood_group_hint">Enter blood group</string>
+    <string name="number_of_units">Enter Number of Units :</string>
+    <string name="number_of_units_hint">Enter number</string>
+    <string name="date_of_donation">Date of Donation :</string>
+    <string name="date_of_donation_hint">Select date</string>
+    <string name="storage_location">Storage Location :</string>
+    <string name="storage_location_hint">Enter location</string>
+    <string name="notes">Notes (Optional) :</string>
+    <string name="notes_hint">Enter notes here</string>
+    <string name="clear_all">Clear All</string>
+
+
+    <!-- Stock Added Page -->
+    <string name="stock_added_title">Stock Added!</string>
+    <string name="stock_added_message">4 units of A+ blood were\nsuccessfully added to stock.</string>
+    <string name="storage_icon">Storage Icon</string>
+    <string name="storage_location1">Stored in: Room 2, Shelf A</string>
+    <string name="stock_date">Date: 03 August 2025</string>
+    <string name="ok_button">OK</string>
+    <string name="add_another_button">Add Another</string>
+
+
+</resources>

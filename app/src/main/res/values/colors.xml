@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#D32F2F</color>
+    <color name="colorAccent">#000000</color>
+
+    <!--onboarding colors-->
+    <color name="linearStart">#FFF5F5</color>
+    <color name="linearEnd">#FFF0F0</color>
+    <color name="dotActive">#D32F2F</color>
+    <color name="dotInactive">#CCCCCC</color>
+    <color name="buttonRed">#D32F2F</color>
+    <color name="buttonTextWhite">#FFFFFF</color>
+
+    <color name="login_button_color">#e53935</color>
+
+
+</resources>
