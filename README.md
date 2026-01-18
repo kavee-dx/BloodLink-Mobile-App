@@ -10,10 +10,6 @@ This project was designed using **Figma** and developed using **Android Studio w
 
 > Below are some images showcasing the BloodLink application:
 
-## 🖼️ App Design Overview
-
-Below are some visuals presenting the design and layout of the BloodLink application:
-
 <p align="center">
   <img src="screenshots/1.jpg" width="230" />&nbsp;&nbsp;&nbsp;
   <img src="screenshots/2.jpg" width="230" />&nbsp;&nbsp;&nbsp;
