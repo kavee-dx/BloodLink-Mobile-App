@@ -111,8 +111,8 @@ In emergency medical situations, hospitals often face delays due to **lack of bl
 
 ## 🎨 **Figma Prototype Design**
 
-🔗 **View the Figma UI/UX Design:**  
-https://www.figma.com/design/ea6zWQ5AceqWW7dve7WdIc/Untitled?node-id=1-3&t=F4ip3DQB8bEN7gWI-1
+🔗 **View the Figma Prototype:**  
+[Click here to watch](https://www.figma.com/proto/ea6zWQ5AceqWW7dve7WdIc/Untitled?node-id=1-3&t=dzRL4xr4HZtJNCP2-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A5&show-proto-sidebar=1)
 
 ---
 
