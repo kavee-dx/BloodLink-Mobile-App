@@ -105,7 +105,7 @@ In emergency medical situations, hospitals often face delays due to **lack of bl
 ## 🎥 **Demo Video**
 
 ▶️ **Watch the BloodLink demo video:**  
-[Click here to watch the demo](https://drive.google.com/file/d/1V9X5s3XyOuB6we4dYkqtxnyL2sibvl5A/view?usp=sharing)
+[Click here to watch the demo](https://youtu.be/-Q3K-WSfJ9c)
 
 ---
 
